@@ -49,7 +49,7 @@ ai-content-generator/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/pashma-abdulmajeed/ai-content-generator_project.git
 ```
 
 ### 2. Open the project
